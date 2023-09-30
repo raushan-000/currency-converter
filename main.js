@@ -27,4 +27,3 @@ btn.addEventListener("click", (e) => {
     const currency = document.querySelector("select[name='currency']").value
     populate(value, currency)
 })
-//cur_live_OP0T6alPXn3PkXJ2wRSGlRazZbJIoib5zrsY5YSm
