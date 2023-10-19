@@ -51,6 +51,8 @@ nav ul {
   font-family: "Poppins", sans-serif;
   max-width: 80vw;
   margin: auto;
+  align-item:center;
+  justify-content:center;
 }
 
 .container h1,
