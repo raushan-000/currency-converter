@@ -51,22 +51,24 @@ nav ul {
   font-family: "Poppins", sans-serif;
   max-width: 80vw;
   margin: auto;
-  align-item:center;
-  justify-content:center;
+  
 }
 
 .container h1,
 h2 {
   margin: 23px 0;
+ 
 }
 
 .container form {
   display: flex;
   flex-direction: column;
+  
 }
 
 .container form label {
   font-size: 25px;
+  
 }
 
 .container form input[type="number"],
